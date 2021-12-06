@@ -8,7 +8,7 @@ I am a Cloud DevOps Engineer that is really passionate about cloud Engineering a
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cool music
 
-### Tools stack
+## Tools stack
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -30,10 +30,7 @@ I am a Cloud DevOps Engineer that is really passionate about cloud Engineering a
 ![](https://img.shields.io/badge/Ordchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
 
-
-
-### My socials
-
+## My socials
 <p align="center">
   <a href="https://twitter.com/Josh_bolten"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://hashnode.com/@CloudCODER"><img src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white" height=25></a> 
@@ -41,9 +38,10 @@ I am a Cloud DevOps Engineer that is really passionate about cloud Engineering a
   <a href="mailto:jozhbolt@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
-
 <p align="Center">
   <a href="https://github.com/Joshua-Igoni/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Igoni&langs_count=10&layout=compact&theme=github_dark&repo=github-readme-stats"  height=220  />
+    <a href="https://github.com/Joshua-Igoni/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joshua-Igoni&show_icons=true&theme=github_dark" height=220 />
+  </a>
 </p>
-
