@@ -4,8 +4,11 @@ I am a Cloud DevOps Engineer that is really passionate about cloud Engineering a
 
 Check out my latest articles here;
 🎯 https://cloudconfig.hashnode.dev/deploy-a-simple-webapp-and-database-on-minikube
+
 🎯 https://cloudconfig.hashnode.dev/monitoring-infrastructure-with-prometheus-and-grafana
+
 🎯 https://cloudconfig.hashnode.dev/how-to-install-nginx-server-with-ansible-playbook
+
 
 More facts about me 🤗👇
 
