@@ -3,6 +3,7 @@
 I am a Cloud DevOps Engineer that is really passionate about cloud Engineering and the DevOps principles that facilitates collaboration and automation of cloud infrastructure. And i also run a blog that advises and publishes best practices and How to's on basic cloud tools and thier implementation (configuration).
 
 Check out my latest articles here;
+
 🎯 https://cloudconfig.hashnode.dev/deploy-a-simple-webapp-and-database-on-minikube
 
 🎯 https://cloudconfig.hashnode.dev/monitoring-infrastructure-with-prometheus-and-grafana
