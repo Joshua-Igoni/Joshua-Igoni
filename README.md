@@ -2,6 +2,13 @@
 
 I am a Cloud DevOps Engineer that is really passionate about cloud Engineering and the DevOps principles that facilitates collaboration and automation of cloud infrastructure. And i also run a blog that advises and publishes best practices and How to's on basic cloud tools and thier implementation (configuration).
 
+Check out my latest articles here;
+🎯 https://cloudconfig.hashnode.dev/deploy-a-simple-webapp-and-database-on-minikube
+🎯 https://cloudconfig.hashnode.dev/monitoring-infrastructure-with-prometheus-and-grafana
+🎯 https://cloudconfig.hashnode.dev/how-to-install-nginx-server-with-ansible-playbook
+
+More facts about me 🤗👇
+
 - 🌱 I’m currently learning Advanced Docker concepts
 - 👯 I’m looking to collaborate on projects, any thing Cloud and DevOps related, stuff that can create value for the society and also Opensource too!.
 - 💬 Ask me about: DevOps, Cloud tools or implementation, Automation, Infrastructure 
